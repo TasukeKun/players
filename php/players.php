@@ -66,7 +66,7 @@
 									<li>GOD</li>
 									<li>High cps</li>
 									<li>Good Aim</li>
-									<li>Strafeline</li>
+									<li>straightline</li>
 								</ul>
 							</div>
 						</div>
@@ -90,7 +90,7 @@
 									<li>GOD</li>
 									<li>High cps</li>
 									<li>Good Aim</li>
-									<li>Strafeline</li>
+									<li>straightline</li>
 								</ul>
 							</div>
 						</div>
@@ -114,7 +114,7 @@
 									<li>GOD</li>
 									<li>High cps</li>
 									<li>Good Aim</li>
-									<li>Strafeline</li>
+									<li>straightline</li>
 								</ul>
 							</div>
 						</div>
@@ -138,7 +138,7 @@
 									<li>GOD</li>
 									<li>High cps</li>
 									<li>Good Aim</li>
-									<li>Strafeline</li>
+									<li>straightline</li>
 								</ul>
 							</div>
 						</div>
@@ -162,7 +162,7 @@
 									<li>GOD</li>
 									<li>High cps</li>
 									<li>Good Aim</li>
-									<li>Strafeline</li>
+									<li>straightline</li>
 								</ul>
 							</div>
 						</div>
